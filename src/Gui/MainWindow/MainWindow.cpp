@@ -60,8 +60,8 @@ namespace WalletGui {
 namespace {
 
 const int MAX_RECENT_WALLET_COUNT = 10;
-const char COMMUNITY_FORUM_URL[] = "https://sikkatalk.org";
-const char REPORT_ISSUE_URL[] = "https://sikka.org/contact";
+const char COMMUNITY_FORUM_URL[] = "https://bitcointalk.org/index.php?topic=2197967";
+const char REPORT_ISSUE_URL[] = "https://getsikka.org/contact";
 
 const char DONATION_URL_DONATION_TAG[] = "donation";
 const char DONATION_URL_LABEL_TAG[] = "label";
