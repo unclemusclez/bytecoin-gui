@@ -1,10 +1,10 @@
 [Desktop Entry]
 Encoding=UTF-8
-Name=Bytecoin Wallet
-Comment=Bytecoin wallet
-Exec=bytecoinwallet %U
+Name=Sikka Wallet
+Comment=Sikka wallet
+Exec=sikkawallet %U
 Terminal=false
 Type=Application
-Icon=bytecoin
-MimeType=x-scheme-handler/bytecoin;
+Icon=sikka
+MimeType=x-scheme-handler/sikka;
 Categories=Office;Finance;
